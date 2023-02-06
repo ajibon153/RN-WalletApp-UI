@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "RN_WalletApp_UI",
-    "slug": "RN_WalletApp_UI",
+    "name": "LCRN09-digital-wallet-expo",
+    "slug": "LCRN09-digital-wallet-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
